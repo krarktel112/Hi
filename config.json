@@ -1,0 +1,8 @@
+**Content of config.json**
+
+{
+    "auth_service": "google [or ptc]",
+    "username": "unsername",
+    "password": "password",
+    "location": "0.0,0.0 [or Valid Address]"
+}
