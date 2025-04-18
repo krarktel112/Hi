@@ -1,8 +1,8 @@
 **Content of config.json**
 
 {
-    "auth_service": "google [or ptc]",
-    "username": "unsername",
-    "password": "password",
+    "auth_service": "ptc",
+    "username": "Tritueday198",
+    "password": "Shiny#89",
     "location": "0.0,0.0 [or Valid Address]"
 }
